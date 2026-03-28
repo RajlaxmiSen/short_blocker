@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark theme background -->
+    <color name="bg_dark">#0D0D0D</color>
+    <color name="card_bg">#1C1C1E</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8E8E93</color>
+
+    <!-- Accents -->
+    <color name="accent_red">#FF3B30</color>
+    <color name="accent_green">#34C759</color>
+    <color name="accent_blue">#1565C0</color>
+    <color name="accent_dark">#2C2C2E</color>
+
+    <!-- Warning -->
+    <color name="warning_bg">#3A2A00</color>
+    <color name="warning_text">#FFD60A</color>
+
+    <!-- System -->
+    <color name="colorPrimary">#1565C0</color>
+    <color name="colorPrimaryVariant">#003C8F</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+</resources>

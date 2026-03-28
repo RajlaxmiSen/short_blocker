@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shorts Blocker</string>
+    <string name="accessibility_service_label">Shorts Blocker</string>
+    <string name="accessibility_service_description">
+        Shorts Blocker monitors YouTube to detect and block the Shorts section.
+        It does not read your personal data or messages.
+    </string>
+</resources>
